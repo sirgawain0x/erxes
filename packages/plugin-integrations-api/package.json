@@ -14,7 +14,7 @@
     "@types/express": "^4.16.0",
     "@types/jest": "^23.3.0",
     "@types/node": "^10.12.18",
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.20.6",
     "botbuilder": "^4.4.0",
     "botbuilder-adapter-facebook-erxes": "^1.0.5",
     "debug": "^4.1.1",
@@ -30,13 +30,13 @@
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "sanitize-html": "^1.20.1",
+    "sanitize-html": "^2.17.7",
     "sinon": "^7.5.0",
     "smooch-core": "^8.8.0",
     "telnyx": "^1.7.2",
     "ts-node": "8.0.3",
     "underscore": "^1.10.2",
-    "uuid": "^3.3.3"
+    "uuid": "^14.0.2"
   },
   "devDependencies": {
     "jest": "22.0.4",

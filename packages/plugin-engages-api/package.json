@@ -11,9 +11,9 @@
   "dependencies": {
     "@types/body-parser": "^1.17.0",
     "aws-sdk": "^2.493.0",
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.20.6",
     "meteor-random": "^0.0.3",
-    "nodemailer": "^6.2.1",
+    "nodemailer": "^9.1.1",
     "telnyx": "^1.7.2",
     "xss": "^1.0.6"
   },
