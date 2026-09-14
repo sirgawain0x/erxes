@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
-    "@babel/core": "^7.11.1",
+    "@babel/core": "^8.0.5",
     "@babel/preset-env": "^7.11.0",
     "@babel/preset-typescript": "^7.10.4",
     "@babel/runtime": "^7.11.2",
@@ -29,7 +29,7 @@
     "lodash": "^4.17.21",
     "meteor-random": "^0.0.3",
     "moment": "^2.18.1",
-    "mongoose": "5.7.5",
+    "mongoose": "6.13.10",
     "request": "^2.88.0",
     "requestify": "^0.2.5",
     "strip": "^3.0.0"
